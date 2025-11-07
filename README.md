@@ -7,5 +7,5 @@
 ### 🚧 WIP
 
 - [x] Analysis complete in [EDA notebook](./notebooks/eda.ipynb)
+- [ ] Write-up, including this README
 - [ ] Styling and formatting of notebook
-- [ ] Write-up / documentation (including this README)
